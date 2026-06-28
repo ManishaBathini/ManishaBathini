@@ -24,7 +24,7 @@ Building AI-powered and full-stack web applications using modern web technologie
 
 🌱 Currently improving my skills in Data Structures & Algorithms, System Design, and AI.
 
-🎯 Open to Software Developer, Full Stack Developer, and React Developer opportunities.
+🎯 Focused on building impactful software and continuously improving as a developer.
 
 ---
 
