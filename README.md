@@ -1,3 +1,4 @@
+ 
 <h1 align="center">Hi 👋, I'm Manisha Bathini</h1>
 
 <h3 align="center">
@@ -16,7 +17,7 @@ Building AI-powered and full-stack web applications using modern web technologie
 
 # 👩‍💻 About Me
 
-🎓 MCA Graduate passionate about Software Development and Artificial Intelligence.
+🎓 MCA Graduate with hands-on experience building AI-powered and full-stack web applications.
 
 💻 I enjoy building scalable full-stack web applications using React.js, Node.js, JavaScript, SQL, and Python.
 
